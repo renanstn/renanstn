@@ -1,6 +1,6 @@
 # Renan Santana
 
-![](./img/cyber.gif)
+![](https://github.com/Doc-McCoy/Doc-McCoy/blob/master/img/cyber.gif)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/renan-santana-0189b1133/">LinkedIn</a> -
