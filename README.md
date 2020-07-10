@@ -1,16 +1,14 @@
-### Hi there 👋
+# Renan Santana
 
-<!--
-**Doc-McCoy/Doc-McCoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](/img/cyber.gif)
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://www.linkedin.com/in/renan-santana-0189b1133/">LinkedIn</a> -
+    <a href="https://medium.com/@renan_santana">Medium</a> -
+    <a href="https://soundcloud.com/docmccoy7">SoundCloud</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :graduation cap: Formado em **Jogos Digitais** pela FATEC - Americana
+- :snake: Desenvolvedor Python, focado em backend e automação
+- :briefcase: Atualmente trabalhando na [Instruct](https://instruct.com.br/)
+
