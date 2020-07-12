@@ -22,7 +22,7 @@ Bem vindos ao meu humilde GitHub :blush:
 ## Hobbies
 
 - :hammer_and_wrench: Desenvolver pequenos projetos aleatórios em diversas linguagens para estudo
-- :video_game: Desenvolver games, com foco na [Godot Engine](https://godotengine.org/)
+- :video_game: Desenvolver pequenos jogos, com foco na [Godot Engine](https://godotengine.org/)
 - :shipit: Resolver desafios de CTF
 - :musical_score: Compor músicas para jogos
 - :musical_keyboard: Tocar piano e violoncelo
