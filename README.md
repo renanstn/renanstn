@@ -15,7 +15,7 @@ Bem vindos ao meu humilde GitHub :blush:
 
 ## Status
 
-- :school: Formado em **Jogos Digitais** pela [FATEC - Americana](http://www.fatec.edu.br/)
+- :school: Tecnólogo em **Jogos Digitais** pela [FATEC - Americana](http://www.fatec.edu.br/)
 - :snake: Desenvolvedor **Python**, focado em backend e automação
 - :briefcase: Atualmente trabalhando na [Instruct](https://instruct.com.br/)
 
