@@ -21,7 +21,7 @@ Bem vindos ao meu humilde GitHub :blush:
 
 ## Hobbies
 
-- :hammer_and_wrench: Desenvolver mini projetos aleatórios linguagens aleatórias para estudo.
+- :hammer_and_wrench: Desenvolver mini projetos aleatórios em linguagens aleatórias para estudo. Geralmente envolvendo web scraping, bots, e agora estou me aventurando em IA com algoritmos genéticos.
 - :video_game: Desenvolver pequenos jogos, com foco na [Godot Engine](https://godotengine.org/)
 - :shipit: Resolver desafios de CTF
 - :musical_score: Compor músicas para jogos
