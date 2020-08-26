@@ -9,8 +9,8 @@
   <a href="https://medium.com/@renan_santana"><img src="https://img.shields.io/badge/-Medium-03a57a?style=flat&labelColor=03a57a&logo=Medium"></a>
   <a href="https://soundcloud.com/docmccoy7"><img src="https://img.shields.io/badge/-SoundCloud-c14438?style=flat&logo=SoundCloud&logoColor=white&color=orange"></a>
   <a href="https://www.youtube.com/channel/UClDrazNffQE2DcPohGI2tYg"><img src="https://img.shields.io/badge/-YouTube-c14438?style=flat&logo=YouTube&logoColor=white&color=red"></a>
+  <a href="https://www.artstation.com/docmccoy"><img src="https://img.shields.io/badge/-ArtStation-c14438?style=flat&logo=ArtStation&logoColor=white&color=blue"></a>
 </p>
-
 
 Bem vindos ao meu humilde GitHub :blush:
 
