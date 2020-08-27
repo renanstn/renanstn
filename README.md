@@ -29,3 +29,10 @@ Bem vindos ao meu humilde GitHub :blush:
 - :musical_score: Compor músicas para jogos
 - :musical_keyboard: Tocar piano e violoncelo
 - :rocket: Modelagem 3D, usando o [Blender](https://www.blender.org/)
+
+
+<div>
+    <a href="https://github.com/renanstd?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=renanstd" width="400" height="200"/>
+    </a>
+</div>
