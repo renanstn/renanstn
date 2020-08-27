@@ -28,4 +28,4 @@ Bem vindos ao meu humilde GitHub :blush:
 - :shipit: Resolver desafios de CTF (As vezes escrevo uns writeups e posto no Medium)
 - :musical_score: Compor músicas para jogos
 - :musical_keyboard: Tocar piano e violoncelo
-- :rocket: Modelagem 3D, usando o incrível [Blender](https://www.blender.org/)
+- :rocket: Modelagem 3D, usando o [Blender](https://www.blender.org/)
