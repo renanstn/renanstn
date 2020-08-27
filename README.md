@@ -33,6 +33,6 @@ Bem vindos ao meu humilde GitHub :blush:
 
 <div>
     <a href="https://github.com/renanstd?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=renanstd" width="400" height="200"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=renanstd&show_icons=true&theme=synthwave" width="400" height="200"/>
     </a>
 </div>
