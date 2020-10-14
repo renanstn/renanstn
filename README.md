@@ -28,7 +28,7 @@ Bem vindos ao meu humilde GitHub :blush:
 - :rocket: Modelagem 3D, usando o [Blender](https://www.blender.org/)
 - :shipit: Resolver desafios de CTF
 - :musical_score: Compor músicas para jogos
-- :musical_keyboard: Tocar piano e atualmente aprendendo violoncelo
+- :musical_keyboard: Tocar piano, e atualmente aprendendo violoncelo
 
 <div>
     <a href="https://github.com/renanstd?tab=repositories">
