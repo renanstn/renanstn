@@ -29,9 +29,3 @@ Bem vindos ao meu humilde GitHub :blush:
 - :shipit: Resolver desafios de CTF
 - :musical_score: Compor músicas para jogos
 - :musical_keyboard: Tocar piano, e atualmente aprendendo violoncelo
-
-<div>
-    <a href="https://github.com/renanstd?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=renanstd&show_icons=true&theme=synthwave" width="400" height="200"/>
-    </a>
-</div>
