@@ -18,8 +18,8 @@ Bem vindos ao meu humilde GitHub :blush:
 ## Status
 
 - :school: Tecnólogo em **Jogos Digitais**, pela [FATEC - Americana](http://www.fatec.edu.br/)
-- :snake: Desenvolvedor **Python**, focado em backend e automação
-- :briefcase: Atualmente trabalhando na [Instruct](https://instruct.com.br/)
+- :snake: Desenvolvedor **Python**
+- :briefcase: Trabalhando na [Instruct](https://instruct.com.br/)
 
 ## Hobbies
 
