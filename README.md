@@ -29,3 +29,7 @@ Bem vindos ao meu humilde GitHub :blush:
 - :shipit: Resolver desafios de CTF
 - :musical_score: Compor músicas para jogos
 - :musical_keyboard: Tocar piano, e atualmente aprendendo violoncelo
+
+---
+
+![](https://github.com/renanstd/renanstd/blob/master/img/rain.gif)
