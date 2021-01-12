@@ -30,6 +30,8 @@ Bem vindos ao meu humilde GitHub :blush:
 - :musical_score: Compor músicas para jogos
 - :musical_keyboard: Tocar piano, e atualmente aprendendo violoncelo
 
+>*Sem saber que era impossível, foi lá e soube.*
+
 ---
 
 ![](https://github.com/renanstd/renanstd/blob/master/img/rain.gif)
