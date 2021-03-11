@@ -13,22 +13,22 @@
   <a href="https://www.artstation.com/docmccoy"><img src="https://img.shields.io/badge/-ArtStation-c14438?style=flat&logo=ArtStation&logoColor=white&color=blue"></a>
 </p>
 
-Bem vindos ao meu humilde GitHub :blush:
+Welcome to my humble GitHub :blush:
 
 ## Status
 
-- :school: Tecnólogo em **Jogos Digitais**, pela [FATEC - Americana](http://www.fatec.edu.br/)
-- :snake: Desenvolvedor **Python**
-- :briefcase: Trabalhando na [Instruct](https://instruct.com.br/)
+- :school: Technologist in **Digital Games**, by [FATEC - Americana](http://www.fatec.edu.br/)
+- :snake: **Python** developer
+- :briefcase: Working for [Instruct](https://instruct.com.br/)
 
 ## Hobbies
 
-- :hammer_and_wrench: Projetos aleatórios, em linguagens aleatórias, para estudo.
-- :video_game: Desenvolver jogos, com foco na maravilhosa [Godot Engine](https://godotengine.org/)
-- :shipit: Resolver desafios de CTF
-- :rocket: As vezes, me arrisco em modelagem 3D, usando o [Blender](https://www.blender.org/)
-- :musical_score: Compor músicas para jogos
-- :musical_keyboard: Tocar piano, e atualmente aprendendo violoncelo
+- :hammer_and_wrench: Develop random projects, in random languages, for study purpose
+- :video_game: Develop random games, using the amazing [Godot Engine](https://godotengine.org/)
+- :shipit: Solve some CTF challenges
+- :rocket: Sometimes, 3D modeling, using [Blender](https://www.blender.org/), why not?
+- :musical_score: Compose music for games
+- :musical_keyboard: Play piano, and actually learning cello
 
 >*"Sem saber que era impossível, foi lá e soube."*
 
