@@ -23,7 +23,7 @@ Welcome to my humble GitHub :blush:
 
 ## Hobbies
 
-- :hammer_and_wrench: Develop random projects, in random languages, for study purpose
+- :hammer_and_wrench: Develop random projects, using random languages, for study purpose
 - :video_game: Develop random games, using the amazing [Godot Engine](https://godotengine.org/)
 - :shipit: Solve some CTF challenges
 - :rocket: Sometimes, 3D modeling, using [Blender](https://www.blender.org/), why not?
