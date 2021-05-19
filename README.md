@@ -23,12 +23,12 @@ Welcome to my humble GitHub :blush:
 
 ## Hobbies
 
-- :hammer_and_wrench: Develop random projects, using random languages, for study purpose
+- :hammer_and_wrench: Develop random projects, in random languages, just for fun
 - :video_game: Games development, using the amazing [Godot Engine](https://godotengine.org/)
-- :shipit: Solve some CTF challenges
+- :shipit: Solve some CTF challenges, and write some writeups
 - :rocket: Sometimes, 3D modeling, using [Blender](https://www.blender.org/), why not?
 - :musical_score: Compose music for games
-- :musical_keyboard: Play piano, and actually learning cello
+- :musical_keyboard: Play piano
 
 >*"Sem saber que era impossível, foi lá e soube."*
 
