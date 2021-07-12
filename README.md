@@ -17,7 +17,7 @@ Welcome to my humble GitHub :blush:
 
 ## Status
 
-- :space_invader: **Digital Games** major - [FATEC at Americana](http://www.fatec.edu.br/)
+- :space_invader: **Digital Games** major - [FATEC Americana](http://www.fatec.edu.br/)
 - :snake: **Python** developer at [Instruct](https://instruct.com.br/)
 
 ## Hobbies
