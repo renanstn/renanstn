@@ -18,8 +18,7 @@ Welcome to my humble GitHub :blush:
 ## Status
 
 - :school: **Digital Games** major - [FATEC at Americana](http://www.fatec.edu.br/)
-- :snake: **Python** developer
-- :briefcase: Working for [Instruct](https://instruct.com.br/)
+- :snake: **Python** developer at [Instruct](https://instruct.com.br/)
 
 ## Hobbies
 
