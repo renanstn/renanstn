@@ -13,7 +13,7 @@
   <a href="https://www.artstation.com/docmccoy"><img src="https://img.shields.io/badge/-ArtStation-c14438?style=flat&logo=ArtStation&logoColor=white&color=blue"></a>
 </p>
 
-Welcome to my humble GitHub :blush:
+Hi, stranger
 
 ## Status
 
