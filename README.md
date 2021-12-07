@@ -22,13 +22,13 @@ Hi, stranger!
 
 ## Hobbies
 
-- :hammer_and_wrench: Random projects just for fun, in random languages
-- 🛼: Rollerblade
-- :video_game: Games development, using the amazing [Godot Engine](https://godotengine.org/)
+- 🛠️ Random projects just for fun, in random languages
+- 🛼 Rollerblade
+- 🎮 Games development, using the amazing [Godot Engine](https://godotengine.org/)
 - :shipit: Solve some CTF challenges, and write some writeups
-- :rocket: Sometimes, 3D modeling, using [Blender](https://www.blender.org/), why not?
-- :musical_score: Compose music for games
-- :musical_keyboard: Play piano
+- 🚀 Sometimes, 3D modeling, using [Blender](https://www.blender.org/), why not?
+- 🎼 Compose music for games
+- 🎹 Play piano
 
 >*"Sem saber que era impossível, foi lá e soube."*
 
