@@ -22,7 +22,7 @@ Hi, stranger!
 
 ## Hobbies
 
-- 🛠️ Random projects just for fun, in random languages
+- 🛠️ Random projects, in random languages
 - 🛼 Rollerblade
 - 🎮 Games development, using the amazing [Godot Engine](https://godotengine.org/)
 - :shipit: Solve some CTF challenges, and write some writeups
