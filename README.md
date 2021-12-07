@@ -17,8 +17,8 @@ Hi, stranger!
 
 ## Status
 
-- :space_invader: **Digital Games** major - [FATEC Americana](http://www.fatec.edu.br/)
-- :snake: **Python** developer at [Instruct](https://instruct.com.br/)
+- 👾 **Digital Games** major - [FATEC Americana](http://www.fatec.edu.br/)
+- 🐍 **Python** developer at [Instruct](https://instruct.com.br/)
 
 ## Hobbies
 
