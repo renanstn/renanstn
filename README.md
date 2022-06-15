@@ -20,7 +20,7 @@ Hi, stranger!
 - 👾 **Digital Games** major - [FATEC Americana](http://www.fatec.edu.br/)
 - 🐍 **Python** developer at [Instruct](https://instruct.com.br/)
 
-## About
+## About me
 
 I like rollerblading, game development, CTF challenges, 3D modeling, music composition for games, hardware, random useless projects, and playing piano and cello.
 
