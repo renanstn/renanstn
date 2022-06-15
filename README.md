@@ -20,15 +20,7 @@ Hi, stranger!
 - 👾 **Digital Games** major - [FATEC Americana](http://www.fatec.edu.br/)
 - 🐍 **Python** developer at [Instruct](https://instruct.com.br/)
 
-## Hobbies
-
-- 🛠️ Random projects, in random languages
-- 🛼 Rollerblade
-- 🎮 Games development, using the amazing [Godot Engine](https://godotengine.org/)
-- :shipit: Solve some CTF challenges, and write some writeups
-- 🚀 Sometimes, 3D modeling, using [Blender](https://www.blender.org/), why not?
-- 🎼 Compose music for games
-- 🎹 Play piano
+I like rollerblading, game development, CTF challenges, 3D modeling, music composition for games, hardware, random useless projects, and playing piano and cello.
 
 >*"Sem saber que era impossível, foi lá e soube."*
 
