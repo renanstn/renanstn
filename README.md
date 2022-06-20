@@ -22,7 +22,7 @@ Hi, stranger!
 
 ## About me
 
-I like rollerblading, game development, CTF challenges, 3D modeling, music composition for games, hardware, random useless projects, and playing piano and cello.
+Inline skating, game development, CTF challenges, 3D modeling, music composition for games, hardware stuff, and random useless projects.
 
 >*"Sem saber que era impossível, foi lá e soube."*
 
