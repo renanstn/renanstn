@@ -22,7 +22,7 @@ Hi, stranger!
 
 ## About me
 
-Inline skating, game development, CTF challenges, 3D modeling, music composition for games, hardware stuff, and random useless projects.
+I like inline skates, game development, CTF challenges, 3D modeling, music composition for games, hardware stuff, and random useless projects.
 
 >*"Sem saber que era impossível, foi lá e soube."*
 
