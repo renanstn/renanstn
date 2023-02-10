@@ -24,8 +24,6 @@ Hi, stranger!
 
 I like inline skates, game development, CTF challenges, 3D modeling, music composition for games, hardware stuff, cyberpunk culture, and random useless projects.
 
->*"Sem saber que era impossível, foi lá e soube."*
-
 ---
 
 ![](https://github.com/renanstd/renanstd/blob/master/img/rain.gif)
