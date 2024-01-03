@@ -18,7 +18,7 @@ Hi, stranger!
 ## Status
 
 - 👾 **Digital Games** major - [FATEC Americana](http://www.fatec.edu.br/)
-- 🐍 **Python** developer at [Instruct](https://instruct.com.br/)
+- 🐍 **Python** developer
 
 ## About me
 
