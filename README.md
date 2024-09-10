@@ -18,11 +18,11 @@ Hi, stranger!
 ## Status
 
 - 👾 **Digital Games** major - [FATEC Americana](http://www.fatec.edu.br/)
-- 🐍 **Python** developer
+- 📟 **Full Stack** developer
 
 ## About me
 
-I love inline skates, game development, CTF challenges, 3D modeling, music composition for games, hardware stuff, cyberpunk culture, and random useless projects.
+I love inline skates, retro gaming, CTF challenges, 3D modeling, music composition for games, hardware stuff, cyberpunk culture, and random useless projects.
 
 ---
 
