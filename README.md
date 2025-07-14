@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renan-santana-0189b1133/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/renan-santana-dev/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://renan-std.medium.com/"><img src="https://img.shields.io/badge/-Medium-03a57a?style=flat&labelColor=03a57a&logo=Medium"></a>
   <a href="https://soundcloud.com/docmccoy7"><img src="https://img.shields.io/badge/-SoundCloud-c14438?style=flat&logo=SoundCloud&logoColor=white&color=orange"></a>
   <a href="https://docmccoy.itch.io/"><img src="https://img.shields.io/badge/-Itch.io-blue?style=flat&logo=Itch.io&logoColor=white&color=blueviolet"></a>
