@@ -17,12 +17,12 @@ Hi, stranger!
 
 ## Status
 
-- 👾 **Digital Games** major - [FATEC Americana](http://www.fatec.edu.br/)
-- 📟 **Full Stack** developer
+- 👾 I have a technology degree in **Digital Games** from [FATEC Americana](http://www.fatec.edu.br/).
+- 📟 Working remotely as a **software engineer** for a company based in Bellevue, WA.
 
 ## About me
 
-I love inline skates, retro gaming, CTF challenges, 3D modeling, music composition for games, hardware stuff, cyberpunk culture, and random useless projects.
+I love inline skating, retro gaming, CTF challenges, 3D modeling, music composition for games, hardware stuff, cyberpunk culture, and random and totally useless projects.
 
 ---
 
