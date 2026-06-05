@@ -22,7 +22,7 @@ Hi, stranger!
 
 ## About me
 
-I love inline skating, retro gaming, CTF challenges, 3D modeling, music composition for games, hardware stuff, cyberpunk culture, and random and totally useless projects.
+I love inline skating, retro gaming, CTF challenges, 3D modeling, music composition for games, hardware stuff, cyberpunk stuff, and totally useless random projects.
 
 ---
 
